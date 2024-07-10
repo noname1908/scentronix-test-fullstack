@@ -46,6 +46,9 @@ export default {
         current: "currentColor",
         transparent: "transparent",
       },
+      aspectRatio: {
+        "4/3": "4 / 3",
+      },
     },
   },
   plugins: [],
